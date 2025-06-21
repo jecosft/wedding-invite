@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/wedding-invite/static/css/main.e6c13ad2.css",
+    "main.css": "/wedding-invite/static/css/main.48430cae.css",
     "main.js": "/wedding-invite/static/js/main.a4280721.js",
+    "static/media/Lora-SemiBold.ttf": "/wedding-invite/static/media/Lora-SemiBold.ba6fd296f6836856386a.ttf",
+    "static/media/Lora-Medium.ttf": "/wedding-invite/static/media/Lora-Medium.ea6d21687c88ed52a7a5.ttf",
+    "static/media/Lora-Regular.ttf": "/wedding-invite/static/media/Lora-Regular.363d06393aa47bc62e82.ttf",
+    "static/media/Lora-Bold.ttf": "/wedding-invite/static/media/Lora-Bold.9a0fff275efa282f9516.ttf",
     "service-worker.js": "/wedding-invite/service-worker.js",
     "index.html": "/wedding-invite/index.html",
-    "main.e6c13ad2.css.map": "/wedding-invite/static/css/main.e6c13ad2.css.map",
+    "main.48430cae.css.map": "/wedding-invite/static/css/main.48430cae.css.map",
     "main.a4280721.js.map": "/wedding-invite/static/js/main.a4280721.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.48430cae.css",
     "static/js/main.a4280721.js"
   ]
 }
